@@ -1,0 +1,11 @@
+*.out
+*.exe
+*.json
+*.vscode/
+*.pyc
+.idea/
+**/.idea/
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+**/.cache/
+.vscodeg
